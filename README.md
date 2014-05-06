@@ -1,4 +1,4 @@
-jaxrs
+jax-rs
 =====
 This repo is created to demo JAX-RS API using Jersey Framework (v2.8)
 Jersey is an implementation of JAX-RS specification (JSR 339)
